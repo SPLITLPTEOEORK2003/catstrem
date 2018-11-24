@@ -1,1 +1,2 @@
-# catstrem
+worker: node bot.js
+
